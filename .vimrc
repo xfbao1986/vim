@@ -31,6 +31,9 @@ Plugin 'mileszs/ack.vim'
 " syntax checker
 Plugin 'scrooloose/syntastic'
 
+" javascript indent and syntax
+Plugin 'pangloss/vim-javascript'
+
 Plugin 'tpope/vim-surround'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'itchyny/lightline.vim'
